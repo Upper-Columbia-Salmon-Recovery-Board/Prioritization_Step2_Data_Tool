@@ -24,3 +24,8 @@ If you have any questions, please feel to reach out to me at ryan.niemeyer@ucsrb
 <img src="https://www.ucsrb.org/wp-content/uploads/2020/05/BEF-300x121.jpg" width="250">
 <img src="https://www.ucsrb.org/wp-content/uploads/2020/05/BPA-300x194.jpg" width="250">
 <img src="https://www.ucsrb.org/wp-content/uploads/2020/05/yakama_logo_color_PLATINUM-300x187.png" width="200">
+
+
+## Upper Columbia Salmon Recovery Board region
+<img src="https://github.com/Upper-Columbia-Salmon-Recovery-Board/R_Scripts_Environmental_Conditions/blob/master/RCO_Map_v3.jpg" width="600">
+
